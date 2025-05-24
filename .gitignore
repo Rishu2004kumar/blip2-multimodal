@@ -15,3 +15,5 @@ dist/
 build/
 venv/
 .env
+blip2env/venv/
+
