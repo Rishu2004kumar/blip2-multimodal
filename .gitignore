@@ -1,0 +1,17 @@
+﻿# Ignore binaries and Python envs
+*.dll
+*.lib
+*.pyd
+*.bin
+*.ckpt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.env
