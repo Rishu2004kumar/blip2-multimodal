@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+sentencepiece
+timm
+opencv-python
+gradio
